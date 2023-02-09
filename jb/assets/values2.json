@@ -1,0 +1,316 @@
+{
+    "vehicles": [
+        {
+            "item": "torpedo",
+            "value": 6.5,
+            "demand": 5,
+            "recieves": "Mostly lowballs/underpay. Hard to get a fair offer. Owners are starting to accept 6.",
+            "from": "season",
+            "trend": "declining",
+            "tag": ["S2"],
+            "valueChart": [
+                {"value": 6.5, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "beam hybrid",
+            "value": 5,
+            "demand": 9,
+            "recieves": "Very high demand, gets overpays frequently. Difficult to get your hands on, but worth the while.",
+            "from": "season",
+            "trend": "fluctuating",
+            "tag": ["S1", "L10"],
+            "valueChart": [
+                {"value": 5, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "arachnid",
+            "value": 4.5,
+            "demand": 6,
+            "recieves": "Looks awesome.",
+            "from": "season",
+            "trend": "stable",
+            "tag": ["S2"],
+            "valueChart": [
+                {"value": 4.5, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "icebreaker",
+            "value": 2,
+            "demand": 9,
+            "recieves": "Porsche Taycan. Pretty rare and kind of inflated at the moment.",
+            "from": "season",
+            "trend": "rising",
+            "tag": ["S7", "L10"],
+            "valueChart": [
+                {"value": 2, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "celsior",
+            "value": 1.25,
+            "demand": 10,
+            "recieves": "Probably the highest demand item in the game. Gets good overpay.",
+            "from": "season",
+            "trend": "rising",
+            "tag": ["S8", "L10"],
+            "valueChart": [
+                {"value": 1.25, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "beignet",
+            "value": 1.25,
+            "demand": 7,
+            "recieves": "Similar in stats to the Chiron. Starting to pull more than 1.25",
+            "from": "season",
+            "trend": "stable",
+            "tag": ["S6", "L10"],
+            "valueChart": [
+                {"value": 1.25, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "raptor",
+            "value": 1,
+            "demand": 6,
+            "recieves": "Occasional overpay.",
+            "from": "season",
+            "trend": "stable",
+            "tag": ["S3"],
+            "valueChart": [
+                {"value": 1, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "brulee",
+            "value": 1,
+            "demand": 4,
+            "recieves": "Fair to small underpay.",
+            "from": "retired",
+            "trend": "stable",
+            "tag": [],
+            "valueChart": [
+                {"value": 1, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "crew capsule",
+            "value": 0.8,
+            "demand": 7,
+            "recieves": "Fair to small overpay.",
+            "from": "season",
+            "trend": "stable",
+            "tag": ["S2", "L10"],
+            "valueChart": [
+                {"value": 0.8, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "jb8",
+            "value": 0.75,
+            "demand": 3,
+            "recieves": "Frequent underpays.",
+            "from": "retired",
+            "trend": "stable",
+            "tag": ["S3"],
+            "valueChart": [
+                {"value": 0.75, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "banana car",
+            "value": 0.85,
+            "demand": 8,
+            "recieves": "Frequent overpay.",
+            "from": "season",
+            "trend": "rising",
+            "tag": ["S5", "L10"],
+            "valueChart": [
+                {"value": 0.625, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "javelin",
+            "value": 0.625,
+            "demand": 6,
+            "recieves": "Fair to small overpay.",
+            "from": "retired",
+            "trend": "rising",
+            "tag": [],
+            "valueChart": [
+                {"value": 0.625, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "m12 molten",
+            "value": 0.5,
+            "demand": 6,
+            "recieves": "Fair to small underpay.",
+            "from": "retired",
+            "trend": "stable",
+            "tag": [],
+            "valueChart": [
+                {"value": 0.5, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "volt 4x4",
+            "value": 0.375,
+            "demand": 6,
+            "recieves": "Fair to small underpay.",
+            "from": "season",
+            "trend": "stable",
+            "tag": ["S3", "L10"],
+            "valueChart": [
+                {"value": 0.375, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "macaron",
+            "value": 0.3,
+            "demand": 6,
+            "recieves": "Fair to small underpay. Gets gold and good adds.",
+            "from": "season",
+            "trend": "rising",
+            "tag": ["S10", "L10"],
+            "valueChart": [
+                {"value": 0.3, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "rattler",
+            "value": 0.25,
+            "demand": 4,
+            "recieves": "Frequent underpay.",
+            "from": "season",
+            "trend": "stable",
+            "tag": ["S4", "L10"],
+            "valueChart": [
+                {"value": 0.25, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "the agent",
+            "value": 0.25,
+            "demand": 4,
+            "recieves": "Fair to small underpay.",
+            "from": "retired",
+            "trend": "stable",
+            "tag": [],
+            "valueChart": [
+                {"value": 0.25, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "torero",
+            "value": 0.25,
+            "demand": 6,
+            "recieves": "Fair to small overpay. Very rare.",
+            "from": "retired",
+            "trend": "stable",
+            "tag": [],
+            "valueChart": [
+                {"value": 0.25, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "goliath",
+            "value": 0.25,
+            "demand": 6,
+            "recieves": "Fair to small overpay.",
+            "from": "season",
+            "trend": "stable",
+            "tag": ["S12", "L10"],
+            "valueChart": [
+                {"value": 0.25, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "airtail",
+            "value": 0.15,
+            "demand": 6,
+            "recieves": "Fair to small overpay.",
+            "from": "retired",
+            "trend": "stable",
+            "tag": [],
+            "valueChart": [
+                {"value": 0.125, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "jack rabbit",
+            "value": 0.125,
+            "demand": 4,
+            "recieves": "Fair to small overpay.",
+            "from": "season",
+            "trend": "stable",
+            "tag": ["S9", "L8"],
+            "valueChart": [
+                {"value": 0.125, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "snake",
+            "value": 0.125,
+            "demand": 6,
+            "recieves": "Fair to small overpay. Good demand.",
+            "from": "retired",
+            "trend": "stable",
+            "tag": [],
+            "valueChart": [
+                {"value": 0.125, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "shell classic",
+            "value": 0.125,
+            "demand": 6,
+            "recieves": "Fair to small overpay. Hard to obtain.",
+            "from": "safes",
+            "trend": "stable",
+            "tag": [],
+            "valueChart": [
+                {"value": 0.125, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "bloxy",
+            "value": 0.125,
+            "demand": 2,
+            "recieves": "Underpay. Garbage demand.",
+            "from": "season",
+            "trend": "stable",
+            "tag": ["S11", "L10"],
+            "valueChart": [
+                {"value": 0.125, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "megalodon",
+            "value": 0.1,
+            "demand": 3,
+            "recieves": "A 1m + adds. 0 demand.",
+            "from": "retired",
+            "trend": "stable",
+            "tag": [],
+            "valueChart": [
+                {"value": 0.1, "time": "2/4"}
+            ]
+        },
+        {
+            "item": "tiny toy",
+            "value": 0.075,
+            "demand": 5,
+            "recieves": "Fair to small overpay.",
+            "from": "season",
+            "trend": "stable",
+            "tag": ["S12", "L8"],
+            "valueChart": [
+                {"value": 0.075, "time": "2/4"}
+            ]
+        }
+    ]
+}
